@@ -1,7 +1,19 @@
 {
 	"folders": [
 		{
-			"path": "avaliacaofinal"
+			"path": "produto-ms"
+		},
+		{
+			"path": "venda-ms"
+		},
+		{
+			"path": "eureka"
+		},
+		{
+			"path": "zuul_server"
+		},
+		{
+			"path": "config"
 		}
 	],
 	"settings": {}
